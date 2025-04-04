@@ -1,0 +1,29 @@
+[
+  {
+    "usedId" : "abcd",
+    "name" : "Atharv Awle",
+    "hashpassword" : "12345",
+    "ticketBooked": [
+      {
+        "source" : "kalyan",
+        "destination" : "Delhi",
+        "dateOfTravel" : "2025-12-08T18:30:00Z",
+        "Train" : {
+          "trainId" : "ehjwb",
+          "trainNo": 156,
+          "trainSeats" : [
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0]
+          ],
+          "station" : {
+            "Ahemdabad" : "13:50:00",
+            "Jaipur" : "13:50:00",
+            "Delhi" : "13:50:00"
+          }
+        }
+      }
+    ]
+  }
+]

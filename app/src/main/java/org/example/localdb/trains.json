@@ -1,0 +1,42 @@
+[
+  {
+    "trainId" : "ehjwb",
+    "trainNo": 156,
+    "trainSeats" : [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "stationTime" : {
+      "Ahemdabad" : "13:50:00",
+      "Jaipur" : "13:50:00",
+      "Delhi" : "13:50:00"
+    },
+    "stations": [
+      "Ahemdabad",
+      "Jaipur",
+      "Delhi"
+    ]
+  },
+  {
+    "trainId" : "ehjwb",
+    "trainNo": 156,
+    "trainSeats" : [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "stationTime" : {
+      "Ahemdabad" : "13:50:00",
+      "Jaipur" : "13:50:00",
+      "Delhi" : "13:50:00"
+    },
+    "stations": [
+      "Ahemdabad",
+      "Jaipur",
+      "Delhi"
+    ]
+  }
+]
